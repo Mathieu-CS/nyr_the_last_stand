@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This website is presenting the project of four students from EPITA,
   a french computer science engineering school. We had to develop a videogame
   with unity during our second semester. Feel free to try it ;)
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "S2_website" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
