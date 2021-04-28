@@ -31,6 +31,16 @@ The following list shows the difficulties we encountered with explanations on ho
 We use the GameObject.FindObjectWithTag() placed in a script not implemented in the AI object so 
 the operation only repeats once per frame.
 
-+ Problem  
++ Github desktop  
 
-Solution  
+A problem was encountered with Github desktop after the second defense. Everytime I opened Github desktop to commit my recent work, most of the project just disappeared from my branch. To rectify this we created a new branch for me to work on since then everything works perfectly again.
+
++ The hosting of the site :
+
+The hosting of the website on GitHub pages used to be impossible because the theme we use isn't supported by GitHub. To host our site we use the GitHub remote-theme plugin.
+
++ To be able to find a good player movement mechanic, which was easy-to-use but still suitable for the game's purpose:
+
+After going through multiple designs, the point and click system was the best choice, first from a coding point of view, but also from a player's point of view.
+
+

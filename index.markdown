@@ -16,26 +16,10 @@ Vargfell before it’s too late.*
 
 ***
 
-You can choose between 4 classes of players : 
+## Map
 
-+ class 1
-+ class 2
-+ class 3
-+ class 4
-
-*screenshots*
-
-***
-
-Plenty of ennemies :
-
-+ darkviking
-+ archer
-+ Bosses
-
-*screenshots*
-
-***
+The world of Nyr :
+Nyr takes place in a viking universe. Your village Vargfell is in danger. In order to save your homeland, you will have to discover and plunder as many islands as possible. You will explore an infinite number of islands without ever getting bored.Since they are randomly generated, each island will be a great brand new experience. Join the fight for Vargfell to take part in this amazing journey !
 
 An open world :
 
@@ -48,13 +32,31 @@ An open world :
 ![photo](/assets/images/iceberg.png)
 - the port
 
+![photo](/assets/images/tuto_island1.png)
+![photo](/assets/images/tuto_island2.png)
+- the tutorial island
+
 ***
 
-## Game mechanics
+## Explore & Loot
 
-The player commands :
+The Nifelheim is vast. There is a lot to explore and to find. Some chests are scattered across the map and your goal is to find them to find weapons and items that will help you through the adventure.
 
-+ I / tab : opens inventory
-+ All of the interactive objects can be interacted by clicking on them
-+ Move by clicking on the floor in the direction you want to go to
-*to fill*
+***
+
+## Enemies
+
+The Nifelheim realm is a dangerous place. Plenty of enemies lurk in the lands and you will meet them during your adventure. But be carefull! If you get to close to them, they will engage the fight and the difficulty of the fights will be harder as you advance in the game.
+
+![photo](/assets/images/soutenanceAI.png)
+- a fight
+
+***
+
+## Combat & Game mechanics
+
+With easy and intuitive movement, Nyr: The Last Stand offers the player great manoeuvrability. Only a click is needed to move the player. Only a click is needed to fight your way through waves of unrelenting enemies. 
+
+By clicking on I or tab, you can open your inventory and see the items you collected through the adventure.
+
+![photo](/assets/images/player.png)
