@@ -43,4 +43,11 @@ The hosting of the website on GitHub pages used to be impossible because the the
 
 After going through multiple designs, the point and click system was the best choice, first from a coding point of view, but also from a player's point of view.
 
+---
 
+### The reports
+
++ First defense, 04/03/2021 :
+(first report)
++ Second defense, 28/04/2021 :
+[second report](/assets/files_to_download/nyr_second_report.pdf)

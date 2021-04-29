@@ -18,9 +18,8 @@ order: 3
 
 ### Download the game :
 
-+ [The game](https://github.com/loniixdev/nyr)
++ [download the second defense version of the game](/assets/files_to_download/build_jeu.zip)
 + [The lite version of the Game]
-+ [Link to the report]
 
 ---
 
