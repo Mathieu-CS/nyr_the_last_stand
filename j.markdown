@@ -47,7 +47,9 @@ After going through multiple designs, the point and click system was the best ch
 
 ### The reports
 
++ Book of specification, January :
+[Book of specification](/assets/files_to_download/nyr_cahier_des_charges.pdf)
 + First defense, 04/03/2021 :
-(first report)
+[First report](/assets/files_to_download/nyr_first_report.pdf)
 + Second defense, 28/04/2021 :
-[second report](/assets/files_to_download/nyr_second_report.pdf)
+[Second report](/assets/files_to_download/nyr_second_report.pdf)
