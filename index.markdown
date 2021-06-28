@@ -42,14 +42,25 @@ An open world :
 
 The Nifelheim is vast. There is a lot to explore and to find. Some chests are scattered across the map and your goal is to find them to find weapons and items that will help you through the adventure.
 
+![photo](/assets/images/screen_objects.png)
+
 ***
 
 ## Enemies
 
 The Nifelheim realm is a dangerous place. Plenty of enemies lurk in the lands and you will meet them during your adventure. But be carefull! If you get to close to them, they will engage the fight and the difficulty of the fights will be harder as you advance in the game.
 
-![photo](/assets/images/soutenanceAI.png)
-- a fight
+- different enemies
+
+![photo](/assets/images/screen_report_1.png)
+- some are extremely dangerous
+![photo](/assets/images/screen_report_2.png)
+- some are among the most trained vikings
+![photo](/assets/images/screen_report_3.png)
+- vikings will do anything to defend their land
+![photo](/assets/images/screen_boss.png)
+
+*We heard the legend of a huge viking 2 times taller than the average Vargfeller, watch out viking*
 
 ***
 
