@@ -22,7 +22,7 @@ Github : [Mathieu-CS](https://github.com/Mathieu-CS)
 
 ### Download the game :
 
-+ [download the second defense version of the game](/assets/files_to_download/build_jeu.zip)
++ [download the installer](/assets/files_to_download/nyr_the_last_stand.exe)
 
 ---
 
