@@ -66,7 +66,7 @@ The Nifelheim realm is a dangerous place. Plenty of enemies lurk in the lands an
 
 ## Combat & Game mechanics
 
-With easy and intuitive movement, Nyr: The Last Stand offers the player great manoeuvrability. Only a click is needed to move the player. Only a click is needed to fight your way through waves of unrelenting enemies. 
+With easy and intuitive movement, Nyr: The Last Stand offers the player great maneuverability. Only a click is needed to move the player. Only a click is needed to fight your way through waves of unrelenting enemies. 
 
 By clicking on I or tab, you can open your inventory and see the items you collected through the adventure.
 
