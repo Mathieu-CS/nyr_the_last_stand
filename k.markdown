@@ -23,6 +23,7 @@ Github : [Mathieu-CS](https://github.com/Mathieu-CS)
 ### Download the game :
 
 + [download the installer](/assets/files_to_download/nyr_the_last_stand.exe)
++ [download the manual](/assets/files_to_download/NYR_manuel.pdf)
 
 ---
 
